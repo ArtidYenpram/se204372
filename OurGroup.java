@@ -6,9 +6,9 @@ public class OurGroup {
     private Vector<String> groupMembers;
     public OurGroup()
     {
-        groupMembers = new Vector<String>();
-        groupMembers.add("Artid"); //PUT YOUR NAME HERE
-        groupMembers.add("Chanwit"); //PUT YOUR NAME HERE
+        groupMembers = new Vector<String>();//PUT YOUR NAME HERE
+        groupMembers.add("Jittipon"); //PUT YOUR NAME HERE
+
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
