@@ -12,7 +12,7 @@ public class OurGroup {
         groupMembers.add("Chanwit");
         groupMembers.add("Jittipon"); //PUT YOUR NAME HERE
         groupMembers.add("Rattanamon");
-	groupMembers.add("Thanakorn");
+	    groupMembers.add("Thanakorn");
     }
     public Vector<String> getGroupMembers () {
         return groupMembers;
